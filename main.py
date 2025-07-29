@@ -1,3 +1,4 @@
+import os
 from app import flask_app, setup_webhook
 from telegram.ext import Application
 from handlers import setup_handlers
