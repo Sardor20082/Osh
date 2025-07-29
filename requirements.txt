@@ -1,0 +1,4 @@
+python-telegram-bot==20.6
+Flask==2.3.3
+aiohttp==3.9.5
+yt-dlp==2024.5.27
